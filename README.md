@@ -1,5 +1,11 @@
 # mobile-mall
 
+#### 说明
+本项目是个人学习使用，项目中使用图片素材为网搜而来，只供学习参考，切勿它用。
+
+#### 技术栈
+vue全家桶，mock.js模拟接口，
+
 ## Project setup
 ```
 npm install
